@@ -238,4 +238,8 @@ body{
     .footer .details .detail{
         justify-content: left;
     }
+
+    .container.objectives-container .objectives .product-details{
+        padding: 0;
+    }
 }
