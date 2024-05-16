@@ -219,6 +219,10 @@ body{
     .container.objectives-container .objectives .product-details .topic{
         width: 100%;
     }
+
+    .container.objectives-container .objectives .product-details{
+        padding: 0;
+    }
 }
 
 @media screen and (max-width: 500px) {
@@ -237,9 +241,5 @@ body{
 
     .footer .details .detail{
         justify-content: left;
-    }
-
-    .container.objectives-container .objectives .product-details{
-        padding: 0;
     }
 }
